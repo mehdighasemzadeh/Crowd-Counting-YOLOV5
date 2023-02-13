@@ -5,7 +5,7 @@ The model was evaluated in [Mall Dataset](https://github.com/deepakcrk/yolov5-cr
 
 # A video from results on Mall Dataset
 
-[![Watch the video](pic/seq_000001.png)](https://youtu.be/XjtfAY3GVUs)
+[![Watch the video](pic/seq_000001.jpg)](https://youtu.be/XjtfAY3GVUs)
 
 
 
