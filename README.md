@@ -8,7 +8,7 @@ The model was evaluated in [Mall Dataset](https://personal.ie.cuhk.edu.hk/~ccloy
 [![Watch the video](pic/seq_000001.jpg)](https://youtu.be/XjtfAY3GVUs)
 
 # Test
-please download the weights from  [here](https://drive.google.com/file/d/1tNhSI_-Hq2AkwE12lqMRV_t9uTbX0b5i/view?usp=sharing), then copy it in Crowd-Counting-YOLOV5 directory
+Please download the network weights from  [here](https://drive.google.com/file/d/1tNhSI_-Hq2AkwE12lqMRV_t9uTbX0b5i/view?usp=sharing), then copy it in Crowd-Counting-YOLOV5 directory
 
 Download and extract Mall dataset
 ```
