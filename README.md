@@ -24,7 +24,7 @@ cd Crowd-Counting-YOLOV5
 python3 detect.py --weights crowdhuman_yolov5m.pt --source test-img/mall_dataset/frames/ --view-img --save-txt --heads
 ```
 
-An [ipynb file](MyHeadYOLOV5.ipynb) is provided for runuing this network on google colab
+An [ipynb file](MyHeadYOLOV5.ipynb) is provided for running this network on google colab
 
 
 
